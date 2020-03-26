@@ -117,7 +117,11 @@ input:checked + .slider:before {
 .main-page {
   position: relative;
   padding-left: 120px;
-  min-height: 660px;
+  height: 658px;
+}
+.contain-content {
+  width: 100%;
+  height: 658px;
 }
 .side-menu {
   position: absolute;
@@ -369,10 +373,10 @@ input:checked + .slider:before {
   font-size: 16px;
   color: #4c4c4c;
 }
-@media (min-width: 576px){
-    .modal-dialog.modal-dialog-food{
-        margin: 0 auto;
-    }
+@media (min-width: 576px) {
+  .modal-dialog.modal-dialog-food {
+    margin: 0 auto;
+  }
 }
 @media (max-width: 767px) {
   .navbar-emenu .btn-info-shop {
