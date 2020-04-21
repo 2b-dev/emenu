@@ -160,12 +160,12 @@ input:checked + .slider:before {
   height: 40px;
   transform: scale(1.2);
 }
-.side-menu .ul-side-menu .li-side-menu .link-side-menu .svg path{
+/* .side-menu .ul-side-menu .li-side-menu .link-side-menu .svg path{
   fill: #ffffff!important;
 }
 .side-menu .ul-side-menu .li-side-menu .link-side-menu:hover .svg path, .side-menu .ul-side-menu .li-side-menu .link-side-menu.active .svg path {
   fill: #ffcc00!important;
-}
+} */
 
 /* .side-menu .ul-side-menu .li-side-menu:nth-child(1) .link-side-menu {
   background-image: url("../img/icon_menu/1.png");
